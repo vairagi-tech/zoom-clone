@@ -1,4 +1,4 @@
-# Stream-Wave
+# video confrencing app
 
 Stream-Wave is a video calling application built with Next.js, Clerk for authentication, and Stream Video for video call functionality. This project provides a seamless experience for scheduling, joining, and managing video calls.
 
@@ -58,10 +58,3 @@ yarn build
 npm start
 # or
 yarn start
-
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request.
-
-License
-
-This project is licensed under the MIT License.
